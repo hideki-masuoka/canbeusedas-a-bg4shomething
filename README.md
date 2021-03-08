@@ -14,3 +14,7 @@ This is a Image, and Something, not shomething.
 この背景画像は気まぐれに作成されました。今後増えるかもしれないし、増えないかもしれません。
 
 ## これ
+
+- 公開スペース01 1152x640px ![openspace01-1152x640.png](/assets/openspace01-1152x640.png)
+- 公開スペース02 1152x640px ![openspace02-1152x640.png](/assets/openspace02-1152x640.png)
+- 公開スペース03 1152x640px ![openspace03-1152x640.png](/assets/openspace03-1152x640.png)
