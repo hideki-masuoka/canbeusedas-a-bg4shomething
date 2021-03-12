@@ -15,6 +15,7 @@ This is a Image, and Something, not shomething.
 
 ## これ
 
-- 公開スペース01 1152x640px ![openspace01-1152x640.png](/assets/openspace01-1152x640.png)
-- 公開スペース02 1152x640px ![openspace02-1152x640.png](/assets/openspace02-1152x640.png)
+- 公開スペース04 1152x640px ![openspace04-1152x640.png](/assets/openspace04-1152x640.png)
 - 公開スペース03 1152x640px ![openspace03-1152x640.png](/assets/openspace03-1152x640.png)
+- 公開スペース02 1152x640px ![openspace02-1152x640.png](/assets/openspace02-1152x640.png)
+- 公開スペース01 1152x640px ![openspace01-1152x640.png](/assets/openspace01-1152x640.png)
